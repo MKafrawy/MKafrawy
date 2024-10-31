@@ -24,7 +24,8 @@ I'm also always open to new opportunities worldwide, so don't hesitate to contac
 
 
 ### For Business
-- :paperclip: [My Resume/CV](https://github.com/user-attachments/files/17459873/MohamedAbdullah-BI.Developer.pdf)
+- :paperclip: [My Rusume/CV ](https://github.com/user-attachments/files/17591809/MohamedAbdullah-BI.Developer.pdf)
+
 
 
 
