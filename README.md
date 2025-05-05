@@ -32,4 +32,4 @@ I'm also always open to new opportunities worldwide, so don't hesitate to contac
 
 ### 📎 For Business
 
-- [My Resume/CV (PDF)](https://github.com/user-attachments/files/17591809/MohamedAbdullah-BI.Developer.pdf)
+- [Resume/CV](https://github.com/user-attachments/files/20034873/MohamedAbdullah.-.DataEngineer.pdf)
