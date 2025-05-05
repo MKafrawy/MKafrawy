@@ -13,15 +13,15 @@ I'm also always open to new opportunities worldwide, so don't hesitate to contac
 ### Top Technologies
 
 ![Python Badge](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&labelColor=black&logo=python&logoColor=3776AB)
-[![SQL Server Badge](https://img.shields.io/badge/-SQL%20Server-CC2927?style=for-the-badge&labelColor=black&logo=microsoft-sql-server&logoColor=CC2927)]
-[![Excel Badge](https://img.shields.io/badge/-Excel-217346?style=for-the-badge&labelColor=black&logo=microsoft-excel&logoColor=white)]
-[![Power BI Badge](https://img.shields.io/badge/-Power%20BI-F2C811?style=for-the-badge&labelColor=black&logo=power-bi&logoColor=F2C811)]
-[![Tableau Badge](https://img.shields.io/badge/-Tableau-E97627?style=for-the-badge&labelColor=black&logo=tableau&logoColor=E97627)]
-[![Spark Badge](https://img.shields.io/badge/-Apache%20Spark-E25A1C?style=for-the-badge&labelColor=black&logo=apache-spark&logoColor=E25A1C)]
-[![LLaMA Badge](https://img.shields.io/badge/-LLaMA-FF6F00?style=for-the-badge&labelColor=black&logo=meta-ai&logoColor=FF6F00)]
-[![Airflow Badge](https://img.shields.io/badge/-Apache%20Airflow-017CEE?style=for-the-badge&labelColor=black&logo=apache-airflow&logoColor=017CEE)]
+[![SQL Server Badge](https://img.shields.io/badge/-SQL%20Server-CC2927?style=for-the-badge&labelColor=black&logo=microsoft-sql-server&logoColor=CC2927)](#)
+[![Excel Badge](https://img.shields.io/badge/-Excel-217346?style=for-the-badge&labelColor=black&logo=microsoft-excel&logoColor=white)](#)
+[![Power BI Badge](https://img.shields.io/badge/-Power%20BI-F2C811?style=for-the-badge&labelColor=black&logo=power-bi&logoColor=F2C811)](#)
+[![Tableau Badge](https://img.shields.io/badge/-Tableau-E97627?style=for-the-badge&labelColor=black&logo=tableau&logoColor=E97627)](#)
+[![Spark Badge](https://img.shields.io/badge/-Apache%20Spark-E25A1C?style=for-the-badge&labelColor=black&logo=apache-spark&logoColor=E25A1C)](#)
+[![LLaMA Badge](https://img.shields.io/badge/-LLaMA-FF6F00?style=for-the-badge&labelColor=black&logo=meta-ai&logoColor=FF6F00)](#)
+[![Airflow Badge](https://img.shields.io/badge/-Apache%20Airflow-017CEE?style=for-the-badge&labelColor=black&logo=apache-airflow&logoColor=017CEE)](#)
 [![Alteryx Badge](https://img.shields.io/badge/-Alteryx-005566?style=for-the-badge&labelColor=black&logo=alteryx&logoColor=005566)](#)
-[![Informatica Badge](https://img.shields.io/badge/-Informatica-FC4C02?style=for-the-badge&labelColor=black&logo=informatica&logoColor=FC4C02)]
+[![Informatica Badge](https://img.shields.io/badge/-Informatica-FC4C02?style=for-the-badge&labelColor=black&logo=informatica&logoColor=FC4C02)](#)
 
 ### For Business
 - :paperclip: [My Resume/CV](https://github.com/user-attachments/files/17591809/MohamedAbdullah-BI.Developer.pdf)
