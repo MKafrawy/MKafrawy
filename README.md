@@ -7,8 +7,9 @@ Focused on continuous learning and improvement to stay updated with the latest t
 I'm also always open to new opportunities worldwide, so don't hesitate to contact me...
 
 ### Let's Connect!
+[![Linkedin Badge](https://img.shields.io/badge/-Mohamed-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/makcs)
 
-[![LinkedIn Logo](https://cdn-icons-png.flaticon.com/512/174/174857.png)](https://www.linkedin.com/in/makcs)
+
 [![Linkedin Badge](https://img.shields.io/badge/-Mohamed-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/makcs) 
 [![Mail Badge](https://img.shields.io/badge/-mohamed.abdullah.cs-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:mohamed.abdullah.cs@gmail.com) 
 [![WhatsApp Badge](https://img.shields.io/badge/-+201029504808-57ab51?style=flat&labelColor=57ab51&logo=whatsapp&logoColor=white)](https://wa.me/+201029504808)
