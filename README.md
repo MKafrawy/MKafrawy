@@ -18,7 +18,6 @@ I'm also always open to new opportunities worldwide, so don't hesitate to contac
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&labelColor=black&logo=python&logoColor=3776AB)
 ![SQL Server](https://img.shields.io/badge/-SQL%20Server-CC2927?style=for-the-badge&labelColor=black&logo=microsoft-sql-server&logoColor=CC2927)
-![Excel](https://img.shields.io/badge/-Excel-217346?style=for-the-badge&labelColor=black&logo=microsoft-excel&logoColor=white)
 ![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=for-the-badge&labelColor=black&logo=power-bi&logoColor=F2C811)
 ![Tableau](https://img.shields.io/badge/-Tableau-E97627?style=for-the-badge&labelColor=black&logo=tableau&logoColor=E97627)
 ![Apache Spark](https://img.shields.io/badge/-Apache%20Spark-E25A1C?style=for-the-badge&labelColor=black&logo=apache-spark&logoColor=E25A1C)
