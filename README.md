@@ -17,9 +17,9 @@ I'm also always open to new opportunities worldwide, so don't hesitate to contac
 ### 🚀 Top Technologies
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&labelColor=black&logo=python&logoColor=3776AB)
-![SQL Server](https://img.shields.io/badge/-SQL%20Server-CC2927?style=for-the-badge&labelColor=black&logo=microsoft-sql-server&logoColor=CC2927)
-![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=for-the-badge&labelColor=black&logo=power-bi&logoColor=F2C811)
-![Tableau](https://img.shields.io/badge/-Tableau-E97627?style=for-the-badge&labelColor=black&logo=tableau&logoColor=E97627)
+![SQL Server](https://img.shields.io/badge/-SQL%20Server-CC2927?style=for-the-badge&labelColor=black&logo=microsoft-sql-server&logoColor=white)
+![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=for-the-badge&labelColor=black&logo=power-bi&logoColor=black)
+![Tableau](https://img.shields.io/badge/-Tableau-E97627?style=for-the-badge&labelColor=black&logo=tableau&logoColor=white)
 ![Apache Spark](https://img.shields.io/badge/-Apache%20Spark-E25A1C?style=for-the-badge&labelColor=black&logo=apache-spark&logoColor=E25A1C)
 ![LLaMA](https://img.shields.io/badge/-LLaMA-FF6F00?style=for-the-badge&labelColor=black&logo=meta&logoColor=FF6F00)
 ![Apache Airflow](https://img.shields.io/badge/-Apache%20Airflow-017CEE?style=for-the-badge&labelColor=black&logo=apache-airflow&logoColor=017CEE)
